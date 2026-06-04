@@ -1,0 +1,6 @@
+{
+  "name": "Conexsent Thank You Page",
+  "description": "Standalone thank you page for Conexsent shown after submitting an application form.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
